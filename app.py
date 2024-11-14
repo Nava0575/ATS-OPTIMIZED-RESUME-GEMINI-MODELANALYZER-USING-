@@ -51,7 +51,7 @@ with st.sidebar:
     - [Streamlit](https://streamlit.io/)
     - [Gemini Pro](https://deepmind.google/technologies/gemini/#introduction)
     - [makersuit API Key](https://makersuite.google.com/)
-    - [Github](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro) Repository
+    - [Github](https://github.com/Nava0575/ATS-OPTIMIZED-RESUME-GEMINI-MODELANALYZER-USING-) Repository
                 
     """)
     
